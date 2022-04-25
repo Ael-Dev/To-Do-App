@@ -1,0 +1,42 @@
+*{
+    color: white;    
+}
+body{
+    background-color: #222124;
+    /* text-align: center; */
+    padding: 70px ;
+}
+.blockquote{
+    display: flex;
+}
+h1{
+    background-color: rgb(151, 5, 120);
+    text-align: center;
+}
+
+hr{
+    background-color: rgb(125, 16, 214);
+}
+
+pre{
+    color: white;
+}
+p{
+    cursor: pointer;
+    margin: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+.list-group-item{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(71, 71, 71);
+}
+.complete{
+    text-decoration:line-through;
+    color: rgb(202, 25, 158);
+}
+
+
+
